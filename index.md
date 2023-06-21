@@ -17,6 +17,10 @@ layout: homepage
 <h4 style="margin:0 10px 0;">2023</h4>
 
 <ul style="margin:0 0 5px;">
+  <li> 实现四足机器人的双足行走（<a href="https://www.bilibili.com/video/BV1Mo4y177oN/">视频</a>）</li>
+</ul>
+
+<ul style="margin:0 0 5px;">
   <li> 一套用于足式机器人的步态规划算法，能够根据运行需要灵活调整步态，能够达到更加稳定和节能的效果，不过目前仍处于仿真开发阶段，尚未完善（<a href="https://www.bilibili.com/video/BV1L84y1p7bA/">视频</a>）</li>
 </ul>
 
