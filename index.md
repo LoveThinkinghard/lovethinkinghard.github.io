@@ -4,7 +4,7 @@ layout: homepage
 
 ## 关于我
 
-我现在是一名硕士研究生，就读于[南方科技大学](https://www.sustech.edu.cn/)，研究方向是足式机器人的感知、规划与控制，预计2024年6月毕业。2021年，本科毕业于[华中科技大学](https://www.hust.edu.cn/)，并保研至此。
+我现在是一名（休学）硕士研究生，就读于[南方科技大学](https://www.sustech.edu.cn/)，研究方向是足式机器人的感知、规划与控制，预计2024年6月毕业。2021年，本科毕业于[华中科技大学](https://www.hust.edu.cn/)，并保研至此。
 
 本科期间指导我的导师包括：[郑玮](http://faculty.hust.edu.cn/zhengwei103/zh_CN/index.htm)、[李红斌](http://faculty.hust.edu.cn/lihongbin/zh_CN/index.htm)、[伍冬睿](https://lab.bciml.cn/)。研究生期间指导我的导师包括：[张巍](https://www.sustech.edu.cn/zh/faculties/zhangwei-2.html)、[谌骅](https://www.sustech.edu.cn/zh/faculties/chenhua.html)、[何志海](https://www.sustech.edu.cn/zh/faculties/zhihaihe.html)。
 
